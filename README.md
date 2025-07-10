@@ -1,1 +1,1 @@
-# Abiela-swetha-CF-RV-25-04
+C-Class core performance analysis: Stage0 (PCGen, Branch Predictor). Vary some configuration knobs in the parameter files and evaluate on risc-v benchmarks, coremark and other microbenchmarks given by Shakti team. Compare performance across configs. Extra credit: Performance analysis on FPGA.
