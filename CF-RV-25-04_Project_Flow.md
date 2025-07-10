@@ -1,7 +1,6 @@
 
 **Problem Statement**
 **c-class Core Performance Analysis: Stage 0 (PCGen, Branch Predictor)**
----
        The objective of this project is to analyze the performance of the C-Class RISC-V core, specifically focusing on Stage 0, which includes the Program Counter Generator (PCGen) and the Branch Predictor.
 We will modify configuration parameters (also known as knobs) related to Stage 0 in the core64.yaml parameter file. These changes will then be evaluated using standard RISC-V benchmarks, CoreMark, and Shakti-provided microbenchmarks.
 
