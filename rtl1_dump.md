@@ -1,3 +1,5 @@
+<img width="1250" height="581" alt="makefile1" src="https://github.com/user-attachments/assets/b484af27-5851-4fab-aca3-fba231eaf142" />
+![rtl1](https://github.com/user-attachments/assets/4c50d067-383d-4930-8b43-7bdb3bc60b24)
 **execution results from `rtl1.dump` before modifying `core64.yaml`**
 
 ---
